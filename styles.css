@@ -65,7 +65,8 @@ body {
 }
 
 .list-item-inline{
-    display: inline;
+    align-self: center;
+    display: inline-block;
     padding: 0rem 0.5rem;
 }
 
@@ -159,20 +160,8 @@ body {
 
 /** icons **/
 
-.social-icon-img {
-    max-width: 35px;
-    display: block;
-    margin: auto;
-}
-
-.twitter-img {
-    max-width: 40px;
-    display: block;
-    margin: auto;
-}
-
-.linkedin-img {
-    max-width: 30px;
+.social-img {
+    max-width: 100%;
     display: block;
     margin: auto;
 }
@@ -189,7 +178,11 @@ body {
     margin: auto;
 }
 
-/** extra **/
+/** extra padding **/
 .padding-extra {
     padding-bottom: 2rem;
+}
+
+.padding-extra2 {
+    padding-bottom: 1rem;
 }
