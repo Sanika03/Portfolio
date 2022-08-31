@@ -190,4 +190,8 @@ body {
     .exception-para {
         max-width: fit-content;
     }
+
+    .exception-width {
+        max-width: 350px;
+    }
 }
