@@ -25,8 +25,8 @@ body {
 /** spaces **/
 
 .spaces {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 
@@ -113,8 +113,8 @@ body {
 .coder .coder-heading {
     text-align: center;
     padding-top: 1rem;
-    text-align: center;
     color: var(--light-gray);
+    padding-left: 2rem ;
 }
 
 .coder .coder-heading-highlight {
