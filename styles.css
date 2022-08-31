@@ -29,6 +29,7 @@ body {
     margin-bottom: 2rem;
 }
 
+
 /** skills **/
 .skill {
     text-align: center;
@@ -186,8 +187,7 @@ body {
 /** responsiveness **/
 
 @media only screen and (max-width: 600px) {
-    body {
-        text-align: center;
-        max-width : 100%;
+    .exception-para {
+        max-width: fit-content;
     }
 }
