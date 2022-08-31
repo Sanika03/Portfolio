@@ -180,13 +180,14 @@ body {
 }
 
 .padding-extra2 {
-    padding-bottom: 1rem;
+    padding-botstom: 1rem;
 }
 
 /** responsiveness **/
 
 @media only screen and (max-width: 600px) {
     body {
-      background-color: lightblue;
+        text-align: center;
+        max-width : 100%;
     }
 }
