@@ -184,6 +184,12 @@ body {
     padding-bottom: 1rem;
 }
 
+.inner-blog-p {
+    display: block;
+    padding: 0.5rem 10rem 0.5rem 10rem;
+}
+
+
 /** responsiveness **/
 
 @media only screen and (max-width: 600px) {
