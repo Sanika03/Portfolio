@@ -195,10 +195,9 @@ body {
 /** responsiveness **/
 
 @media only screen and (max-width: 600px) {
-    .exception-para {
-        max-width: fit-content;
+    h1{
+        text-align: center;
     }
-
     .exception-width {
         display: flex;
         margin: 10px;
