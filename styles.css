@@ -195,9 +195,6 @@ body {
 /** responsiveness **/
 
 @media only screen and (max-width: 600px) {
-    h1{
-        text-align: center;
-    }
     .exception-width {
         display: flex;
         margin: 10px;
