@@ -115,6 +115,7 @@ body {
     padding-top: 1rem;
     color: var(--light-gray);
     padding-left: 2rem ;
+    padding-bottom: 1rem;
 }
 
 .coder .coder-heading-highlight {
