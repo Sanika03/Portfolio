@@ -205,6 +205,9 @@ body {
         justify-content: center;
         text-align: center;
     }
+    .inner-blog-p{
+        padding: 0 30px;
+    }
     * {
         padding: 0;
         text-transform: capitalize;
