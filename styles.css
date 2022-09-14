@@ -187,6 +187,12 @@ body {
     margin: auto;
 }
 
+.solidity-icon-img {
+    max-width: 60.5px;
+    display: block;
+    margin: auto;
+}
+
 /** extra padding **/
 .padding-extra {
     padding-bottom: 2rem;
